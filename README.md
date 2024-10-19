@@ -1,5 +1,7 @@
 # CNC Milling Machine Build
 
+![Demo GIF](Demo1.gif)
+
 ## 1. Introduction
 Welcome to the documentation of my homemade CNC milling machine project! This endeavor represents my journey in constructing a custom 3-axis CNC machine, designed to overcome the limitations of a cheap, entry-level CNC that I previously owned. That machine struggled with rigidity and power, especially when working on hard plastics and was unable to handle aluminum.
 

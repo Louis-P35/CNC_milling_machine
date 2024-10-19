@@ -43,6 +43,8 @@ While a wood router is not an ideal choice for intensive aluminum milling due to
 
 A wood router is designed with a special motor and bearings capable of handling significant perpendicular forces that occur during cutting. This makes it effective in dealing with side loads during milling operations, which is essential when used as a spindle. Although it lacks some of the finesse of dedicated CNC spindles, its capability to withstand lateral forces makes it a viable option for this build.
 
+![Wood Router](wood_router.jpg)
+
 ### 3.5. Linux CNC
 For controlling the CNC machine, I chose LinuxCNC as the software platform. LinuxCNC is open-source, highly customizable, and has a robust feature set ideal for this kind of application. It offers the flexibility needed for tweaking control parameters and adapting to the specifics of a custom-built machine. Additionally, LinuxCNC has an active community that provides valuable support, making it an excellent choice for DIY CNC enthusiasts. Its real-time control capability ensures precise motion, which is critical for achieving high-quality milling results.
 

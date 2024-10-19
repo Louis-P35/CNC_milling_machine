@@ -10,8 +10,8 @@ With those shortcomings in mind, I set out to create a more robust CNC milling m
 This repository documents the entire build process, from the initial technical choices to assembly, software setup, and calibration. The goal is to provide a detailed overview for anyone looking to understand or replicate the build, including all the challenges encountered and the solutions found along the way. I hope this serves as an informative guide for other makers and CNC enthusiasts looking to venture into building their own custom milling machine.
 
 ## 2. Key Features
-- Increased working area
-- Increased rigidity
+- Big working area
+- High rigidity
 - Able to mill aluminum
 
 ## 3. Technical Choices
@@ -60,8 +60,12 @@ By choosing the Optiplex 760, I ensured that the CNC setup had the necessary sta
 ### 4.2. Y-Axis Assembly
 
 ### 4.3. Z-Axis Assembly
+![Z Axis](Z_axis.jpg)
 
 ### 4.4. Spindle Integration
+![Z Axis router mount](router_mount.jpg)
+
+![Z Axis router](Z_axis_router.jpg)
 
 ### 4.5. Electronics Setup
 

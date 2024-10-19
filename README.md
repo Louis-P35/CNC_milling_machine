@@ -23,10 +23,14 @@ One of the significant upgrades in this machine is the use of supported linear r
 ### 3.1. Linear Screw Ball Bearings
 To drive the movement along each axis, I opted for linear ball screws. Ball screws are well-known for their reduced backlash compared to standard lead screws, which translates to better precision in positioning. Furthermore, they are not backdrivable under load, meaning they maintain the machine's position without slipping when powered off. This adds to both the reliability and precision required for consistent, high-quality milling, particularly when dealing with hard materials.
 
+![Lead screw](leadScrew.jpg)
+
 ### 3.2. NEMA23 Stepper Motors
 The CNC machine uses NEMA23 stepper motors, which are a substantial upgrade over the smaller NEMA17 motors of my cheap machine. Stepper motors are ideal for CNC applications because they offer precise control over position, speed, and acceleration without requiring feedback from position sensors. They operate by moving in small, consistent steps, making them excellent for applications requiring accurate and repeatable movements.
 
 The NEMA23 motors provide significantly more torque compared to NEMA17 motors, which is essential for driving heavier components and cutting tougher materials like aluminum. Their additional power helps achieve more reliable cutting speeds and forces without losing steps, ensuring better accuracy throughout the machining process. This makes them a perfect fit for ensuring stability and precision in a demanding milling setup.
+
+![Nema 23](nema23.jpg)
 
 ### 3.3. Aluminum Profiles
 The frame of the machine is constructed from aluminum profiles. This choice was motivated by the need for a material that is both lightweight and sufficiently strong to support the components and withstand the forces involved in milling. Aluminum profiles also offer flexibility in construction, with pre-made slots that make assembly straightforward and adjustable. Additionally, they are a cost-effective option, providing good strength while keeping the overall build cost reasonable.

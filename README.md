@@ -77,6 +77,12 @@ By choosing the Optiplex 760, I ensured that the CNC setup had the necessary sta
 
 ### 4.5. Electronics Setup
 
+![Driver](Electronics/stepper_driver.jpg)
+
+![Driver config](Electronics/driver_config.jpg)
+
+![Driver wirering](Electronics/driver_wirering.jpg)
+
 ## 5. Software Configuration
 
 ## 6. Testing and Calibration

@@ -20,6 +20,8 @@ In constructing this CNC milling machine, I made a few crucial technical decisio
 ### 3.1. Supported linear rails
 One of the significant upgrades in this machine is the use of supported linear rails. Unlike the unsupported linear rods found on cheap CNC machines, which often suffer from bending under load, supported linear rails greatly improve the machine's rigidity. This extra support allows for higher accuracy and more consistent performance, especially during more demanding milling operations, such as working with aluminum. This was a crucial step to overcome the issues I had with my previous machine's instability.
 
+![Linear rail](supported_linear_rail.jpg)
+
 ### 3.1. Linear Screw Ball Bearings
 To drive the movement along each axis, I opted for linear ball screws. Ball screws are well-known for their reduced backlash compared to standard lead screws, which translates to better precision in positioning. Furthermore, they are not backdrivable under load, meaning they maintain the machine's position without slipping when powered off. This adds to both the reliability and precision required for consistent, high-quality milling, particularly when dealing with hard materials.
 
